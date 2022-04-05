@@ -1,3 +1,14 @@
+## Site URL 
+- https://waveportal-starter-project.michytoken.repl.co/
+
+## Etherscan link
+https://rinkeby.etherscan.io/tx/0xc92f459e35734464f76568abf347225fa62fd1b7f1868e5de7021d1c91d9fd72
+
+
+
+
+
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
