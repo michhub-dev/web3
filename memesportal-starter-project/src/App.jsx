@@ -8,7 +8,7 @@ const App = () => {
   const [usersWallet, setUsersWallet] = useState("");
 
   // store the contract address in a variable 
-  const contractAddress = "0x88E6F065FBdbb8cCdE70DB5f10748b8CCe4Ec197";
+  const contractAddress = "0xa8Db68b275bB9bA8b73339f5a82548320F10A1d3";
   
     // Variable that reference the abi content 
   const contractABI = abi.abi; // ABI file is something our web app needs to know how to communicate with our contract
