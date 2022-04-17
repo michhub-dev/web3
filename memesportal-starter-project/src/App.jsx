@@ -77,7 +77,7 @@ use eth_requestAccounts function to ask Metamask to give me access to the user's
         * Execute the actual meme from the smart contract
         */
         
-        const memeTxn = await memePortalContract.meme();
+        const memeTxn = await memePortalContract.meme(message, { gasLimit: 300000}); 
         console.log("Mining...", memeTxn.hash);
 
         await memeTxn.wait();
